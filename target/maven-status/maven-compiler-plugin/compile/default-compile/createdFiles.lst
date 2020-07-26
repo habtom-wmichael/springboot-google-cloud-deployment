@@ -1,0 +1,4 @@
+com/test/me/springbootapp/controller/HelloController.class
+com/test/me/springbootapp/model/Hello.class
+com/test/me/springbootapp/SpringbootappApplication.class
+com/test/me/springbootapp/services/Helloservice.class
